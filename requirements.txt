@@ -10,17 +10,21 @@ Flask==3.0.3
 Flask-Login==0.4.0
 Flask-Migrate==2.0.2
 Flask-Script==2.0.5
-Flask-SQLAlchemy==2.4.0
+Flask-SQLAlchemy==3.1.1
 Flask-WTF==0.14.2
 Flask-User==1.0.1.5
 
-Jinja2==3.1.4
-Werkzeug==3.0.4
 blinker==1.8.2
-click==8.1.7
+click==8.1.8
 colorama==0.4.6
+greenlet==3.1.1
 importlib-metadata==8.5.0
 itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==2.1.5
+SQLAlchemy==2.0.38
+typing_extensions==4.12.2
+Werkzeug==3.0.6
 zipp==3.20.2
 
 # Automated tests
